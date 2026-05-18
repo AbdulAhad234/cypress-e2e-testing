@@ -17,7 +17,7 @@ The project covers:
 ## 📘 Task 1 - UI Functional Testing
 Detailed documentation for Task 1 is available in:
 
-- [Task 1 - UI Functional Testing](README_TASK1.md)
+- [Task 1 - UI Functional Testing](cypress/README_TASK1.md)
 
 Task 1 includes:
 - Login Tests
@@ -29,7 +29,7 @@ Task 1 includes:
 ## 📘 Task 2 - Assertions, Aliases & Custom Commands
 Detailed documentation for Task 2 is available in:
 
-- [Task 2 - Assertions, Aliases & Custom Commands](README_TASK2.md)
+- [Task 2 - Assertions, Aliases & Custom Commands](cypress/README_TASK2.md)
 
 Task 2 includes:
 - Assertions
